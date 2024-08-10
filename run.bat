@@ -1,0 +1,1 @@
+D:\Devel\gameboy\mGBA-0.10.3-win64\mGBA.exe export\ZenF.gba

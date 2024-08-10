@@ -1,0 +1,1 @@
+wav 32768hz 32bit float

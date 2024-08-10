@@ -1,0 +1,42 @@
+ZenF, not to be confused with the german word "Senf" ( = mustard ),
+is a Zen puzzle game to relax and pass the time.
+The game is about flattening towers on a board to cover all tiles 
+and bring the height of all towers to 1.
+
+This is an exemplary game board of size 3x3 
+with 4 towers of height 1, 2, 3 and 4:
+
+This is an empty tile:
+
+This is a tower with height 3:
+
+In "Move and Select" mode:
+Use the left/right/up/down button to move the cursor over the board.
+If the cursor is over a tower tile, press A to select this tower 
+and switch to "Flatten" mode.
+If you press B instead you will switch to "De-Flatten" mode.
+You can recognize this mode by the blinking marking around a tile.
+
+In "Flatten" mode:
+Use the left/right/up/down button to spread the selected stower one by one 
+in the corresponding direction and shrink the height of the tower.
+You can recognize this mode by the outward pointing blinking arrows.
+Press A to leave this mode and switch back to "Move and Select" mode
+or press B to quickly switch to "De-Flatten" mode.
+
+In "De-Flatten" mode:
+Use the left/right/up/down button to undo the spreaded tiles of a tower 
+in the corresponding opposite direction and therefore raise the tower again.
+You can recognize this mode by the inward pointing blinking arrows.
+Press B to leave this mode and switch back to "Move and Select" mode
+or press A to quickly switch to "Flatten" mode.
+
+Goal of the game:
+Lay out all tower tiles so that they cover the whole board and 
+all towers have the height 1.
+
+Quit to Menu / Saving:
+Press START or SELECT to go back to the main menu. 
+The progress of the game will be saved when you do so 
+and can be continued later.
+
